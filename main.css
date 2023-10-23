@@ -1,6 +1,4 @@
 body {
-  background-color: red;;
-  background-color: #6162A;
   background-image: url("henry-co-mjPs0heWsek-unsplash.jpg" )
 }
 
@@ -12,10 +10,6 @@ body {
   padding-top: 25px;
 }
 
-.btn btn-primary {
-  
-  
-}
 
 .myImage {
   display: block;
@@ -23,6 +17,6 @@ body {
   margin-right: auto;
   width: 200px;
   margin-bottom: 25px;
-  border 5px;
+  border: 5px;
   border-radius:15px;
 }
